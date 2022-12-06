@@ -6,8 +6,7 @@ from solos.views import index
 class SolosURLsTestCase(TestCase):
     def test_root_url_uses_index_view(self):
         """
-        Test that the root of the site resolves to the
-        correct view function
+        Test that the root of the site resolves to the correct view function
         """
 
         # root = reverse(viewname='index')
