@@ -3,6 +3,7 @@ async-generator==1.10
 attrs==22.1.0
 backports.zoneinfo==0.2.1
 certifi==2022.9.24
+coverage==6.5.0
 Django==4.1.4
 djangorestframework==3.14.0
 exceptiongroup==1.0.4
